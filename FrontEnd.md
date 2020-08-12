@@ -71,6 +71,9 @@
         + Tamanho do conteúdo (width / height)
         + Preenchimentos 
         + Bordas
+        + Espaçamentos
+        + Displays
+        + Cores
       
       + Layout 
         + Posicionamentos
