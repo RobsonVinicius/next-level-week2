@@ -34,11 +34,69 @@
         + HyperText = Hypertexto 
         + Markup = Marcação
         + Language = Linguagem
-      + Tags
-        + Marcações
-        
+
+             
       + Navegador
         + CTRL + SHIFT + R - Forçar o recarregamento da página
+
     + CSS
+      + Cascading Style Sheet
+      + Parte Visual
+
     + Javascript
+      + Comportamento
+
+  + #### Introdução às tecnologias
+
+    + HTML
+      + tags
+        + head
+          + meta
+          + title
+          + link
+          + style
+        + body
+          + div 
+          + h1
+          + p
+          + a
+          + img
+
+    + CSS 
+      + Resposivo
+        + Mobile First
+        + Unidades de medida: rem / em
+    
+      + Box Model 
+        + Tamanho do conteúdo (width / height)
+        + Preenchimentos 
+        + Bordas
+      
+      + Layout 
+        + Posicionamentos
+          + displays
+            + regras fora da ciaxa (block / inline)
+              + - display: block 
+                + - elements: div / h1 / p
+              + - display: inline
+                + - elements: a / span / strong
+
+            + regras para dentro da caixa (flex / grid)
+          + position: relative / absolute
+        + alinhamentos
+
+      + Textos 
+        + Tamanho 
+        + Tipo
+        + Espaçamentos
+        + Alinhamentos
+      
+      + Javascript
+        + Variáveis
+        + Tipos de Dados
+        + Objetos
+        + Funções 
+        + Condições
+        + Repetições
+
   

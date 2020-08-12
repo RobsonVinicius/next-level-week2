@@ -1,6 +1,6 @@
 /* CSS - Cascading Style Sheets */
 :root {
-  --color-background: #f0f0f7;
+  --color-background: #f0f0f7; /* Variáveis CSS */
   --color-primary-lighter: #9871f5;
   --color-primary-light: #916bea;
   --color-primary: #8257e5;
@@ -19,6 +19,14 @@
   --color-box-base: #ffffff;
   --color-box-footer: #fafafc;
   --color-small-info: #c1bccc;
+
+  /* Tamanho da Fonte padrão: 16px - 100% - 1rem */
   font-size: 60%; /* controle das medidas rem */
 }
 
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
