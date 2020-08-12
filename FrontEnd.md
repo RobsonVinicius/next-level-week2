@@ -76,10 +76,10 @@
         + Posicionamentos
           + displays
             + regras fora da ciaxa (block / inline)
-              + - display: block 
-                + - elements: div / h1 / p
-              + - display: inline
-                + - elements: a / span / strong
+              + display: block 
+                + elements: div / h1 / p
+              + display: inline
+                + elements: a / span / strong
 
             + regras para dentro da caixa (flex / grid)
           + position: relative / absolute
