@@ -22,5 +22,14 @@
   + #### Imagina que...
     + Cliente chama
     + Servidor escuta e responde
+    
+  + #### Como é feita essa comunicação?
+    + HTTP (HyperText Transfer Protocol)
+    + URL (Universal Resource Location)
+    + Uma troca de dados
   
+  + #### Tecnologias do Front-end
+    + HTML 
+    + CSS
+    + Javascript
   
