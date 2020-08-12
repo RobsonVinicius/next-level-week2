@@ -10,7 +10,7 @@
         + Maneira de Pensar
       + Sintaxe
         + Maneira correta de escrever        
-  + Linguagem de Programação 
+  + #### Linguagem de Programação 
     + Javascript 
     
 + ### Configurar o ambiente de desenvolvimento
