@@ -9,6 +9,8 @@
       + Lógica de Programação
         + Maneira de Pensar
       + Sintaxe
-        + Maneira correta de escrever
-        
+        + Maneira correta de escrever        
   + Linguagem de Programação 
+    + Javascript 
+    
+  
