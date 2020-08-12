@@ -1,7 +1,7 @@
-### Front End 
+## Front End 
 
-+ #### Programação Web
-  + O que é programação?<br>
++ ### Programação Web
+  + #### O que é programação?<br>
     + Ensinar o Computador
       + Algoritmos
         + Passo a passo
@@ -13,4 +13,14 @@
   + Linguagem de Programação 
     + Javascript 
     
++ ### Configurar o ambiente de desenvolvimento
+  + #### Ferramentas 
+    + Chrome/Edge - Navegador
+    + VSCode - Para escrever códigos
+    
++ ### Front-end e Back-end
+  + #### Imagina que...
+    + Cliente chama
+    + Servidor escuta e responde
+  
   
