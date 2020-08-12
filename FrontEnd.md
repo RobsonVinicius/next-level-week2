@@ -30,6 +30,15 @@
   
   + #### Tecnologias do Front-end
     + HTML 
+      + HyperText Markup Languagem
+        + HyperText = Hypertexto 
+        + Markup = Marcação
+        + Language = Linguagem
+      + Tags
+        + Marcações
+        
+      + Navegador
+        + CTRL + SHIFT + R - Forçar o recarregamento da página
     + CSS
     + Javascript
   
