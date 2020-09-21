@@ -97,6 +97,7 @@
       + Javascript
         + Variáveis
         + Tipos de Dados
+          + String ""
         + Objetos
         + Funções 
         + Condições
